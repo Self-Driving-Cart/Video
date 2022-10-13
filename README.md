@@ -1,5 +1,9 @@
 # Video-Description
 
+초음파센서와 영상처리를 적용한 사용자 트래킹 카트
+
+User Tracking Cart with Ultrasonic Sensor and Image Processing
+
 https://user-images.githubusercontent.com/95339307/195507169-5097ff2d-3cf5-4d46-a876-ed6b85dbb158.mp4
 
 
